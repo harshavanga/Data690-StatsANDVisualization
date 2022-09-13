@@ -1,7 +1,7 @@
 # Resume
 
 ## Name: Mohan Brahma Harsha
-<img src="https://github.com/Pam2020/DATA690-Statistics-Visualization/blob/main/assignment_01/ProfilePic.jpeg" width="360" height="450" />
+<img src="" width="360" height="450" />
 ## Contact Information: 
 ### Mail ID: mohanbrahmaharsha@gmail.com
 ### LinkedIn: https://www.linkedin.com/in/harshavanga
