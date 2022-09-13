@@ -2,6 +2,7 @@
 
 ## Name: Mohan Brahma Harsha
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/Assignment%201/IMG_8849.heic" width="360" height="450" />
+
 ## Contact Information: 
 ### Mail ID: mohanbrahmaharsha@gmail.com
 ### LinkedIn: https://www.linkedin.com/in/harshavanga
