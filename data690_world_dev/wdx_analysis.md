@@ -20,6 +20,14 @@ I use a scatter plot to study the relation between the literacy rate and the dea
 
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/educationattainmentVDcauseofdeath.png"  width="800" height="400">
 
+It is not very evident from the plots that the education levels in correlated with the spread of communicable diseases. In general we see that the education attainment percentage is more in the US than in the sub-saharan africa. 
+
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/literacyrate_bar.png"  width="800" height="400">
+
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/educationattainment_bar.png"  width="800" height="400">
+
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/causeofdeath_bar.png"  width="800" height="400">
+
 
 
 
