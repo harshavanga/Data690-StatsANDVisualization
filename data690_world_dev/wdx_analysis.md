@@ -16,7 +16,7 @@ The indicators chosen are:
 
 I use a scatter plot to study the relation between the literacy rate and the deaths caused by communicable diseases. It is seen that sub-saharan africa has the highest number of deaths due to communicable diseases and also shows lowest literacy rate. There seems to be a negative correlation between the literacy rate and deaths due to communicable diseases. There are definitely other factors that affect including access to better healthcare and vulnerability to communicable diseases. 
 
-<img src="">
+<img src="data690_world_dev/charts/causeofdeathVSliteracyrate.png"  width="600" height="300">
 
-<img src="">
+<img src=""  width="600" height="300">
 
