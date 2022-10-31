@@ -10,6 +10,7 @@ The indicators chosen are:
 3. Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative) (Education): This is also used to measure the education level of the society. 
 
 **Time period**: 2010 - 2020
+
 **Countries chosen**: G20 Group of countries
 
 #### What is the relationship between literacy rate and deaths caused by communicable diseases?
@@ -17,6 +18,10 @@ The indicators chosen are:
 I use a scatter plot to study the relation between the literacy rate and the deaths caused by communicable diseases. It is seen that sub-saharan africa has the highest number of deaths due to communicable diseases and also shows lowest literacy rate. There seems to be a negative correlation between the literacy rate and deaths due to communicable diseases. There are definitely other factors that affect including access to better healthcare and vulnerability to communicable diseases. 
 
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/causeofdeathVSliteracyrate.png"  width="800" height="400">
+
+#### What is the relationship between percentage of people with primary education and deaths caused by communicable diseases?
+
+Percentage of total population that has received atleast primary education is another indicator for education levels in the society. This plot also shows a similar trend as there is a negative correlation observed. As the percentage of educated people in the society increases, there seems to be lesser deaths due to communicable diseases.
 
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/educationattainmentVDcauseofdeath.png"  width="800" height="400">
 
