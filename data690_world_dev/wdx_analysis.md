@@ -28,6 +28,13 @@ It is not very evident from the plots that the education levels in correlated wi
 
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/causeofdeath_bar.png"  width="800" height="400">
 
+#### How do these trends change over time?
+
+The deaths due to communicable diseases seems to be high in the sub-saharan africa and south asia. However, this seems to decrease over a span from 2010 to 2019. Literacy rate for all the regions seems to increase in this time span. Therefore, this might mean that there is no causality between the literacy rate and the spread of communicable diseases.
+
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/"  width="800" height="400">
+
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/"  width="800" height="400">
 
 
 
