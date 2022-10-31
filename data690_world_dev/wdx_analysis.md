@@ -34,6 +34,8 @@ The deaths due to communicable diseases seems to be high in the sub-saharan afri
 
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/TIME_cause_of_death.png"  width="800" height="400">
 
+It is astonishing to see that south asia has a literacy rate that is drastically low when compared to the other regions. Sub-saharan african countries show more deaths than other countries despite higher literacy rates that are increasing with time.
+
 <img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/TIME_literacy_rate.png"  width="800" height="400">
 
 ### Conclusion:
