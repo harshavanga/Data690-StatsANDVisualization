@@ -32,10 +32,12 @@ It is not very evident from the plots that the education levels in correlated wi
 
 The deaths due to communicable diseases seems to be high in the sub-saharan africa and south asia. However, this seems to decrease over a span from 2010 to 2019. Literacy rate for all the regions seems to increase in this time span. Therefore, this might mean that there is no causality between the literacy rate and the spread of communicable diseases.
 
-<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/"  width="800" height="400">
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/TIME_cause_of_death.png"  width="800" height="400">
 
-<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/"  width="800" height="400">
+<img src="https://github.com/harshavanga/Data690-StatsANDVisualization/blob/main/data690_world_dev/charts/TIME_literacy_rate.png"  width="800" height="400">
 
+### Conclusion:
 
+From these plots, we can infer that there is some correlation between deaths due to communicable diseases and education level in the society. However, deaths can depend on a lot of factors such as the country's population, heathcare facilities, regulations/steps introduced by the government, access to vaccine sand so on. If data on spread rate of communicable diseases or duration of prevelance of such diseases or frequency of such occurances can act as better communicable diseases in the society. 
 
 
