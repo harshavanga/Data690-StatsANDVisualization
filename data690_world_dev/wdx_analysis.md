@@ -1,4 +1,4 @@
-# Do more educated individuals imply a faster decline in communicable diseases such as COVID in a society?
+# Is an educated society equivalent to a healthy society?
 
 In recent times of covid, we have seen countries imposing many regulations to reduce the spread of the coronavirus among people. There have also been various reactions to these regulations in various countires. Keeping in mind the differences in population, access to healthcare facilities and awareness, it is understandable that these differences occur. A particular factor that could affect the dynamics of a pandemic is the education level of the population. I am interested in knowing whether an educated population would make better decisions and co-operate better during such a crisis. 
 
