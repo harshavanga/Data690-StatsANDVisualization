@@ -1,0 +1,132 @@
+,Year,Country Code,Country Name,Region,Income Group,Lending Type,SE.ADT.LITR.ZS,SE.PRM.CUAT.ZS,SH.DTH.COMM.ZS
+0,2010,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,98.9549713135,,14.1294278661
+1,2010,AUS,Australia,East Asia & Pacific,High income,Not classified,,99.8681335449,3.9544960432
+2,2010,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,90.3791809082,,13.8240827503
+3,2010,CAN,Canada,North America,High income,Not classified,,,5.2148609964
+4,2010,CHN,China,East Asia & Pacific,Upper middle income,IBRD,95.1244812012,,5.0985500759
+5,2010,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,4.631465158
+6,2010,FRA,France,Europe & Central Asia,High income,Not classified,,98.4357376099,5.9048093789
+7,2010,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,99.8078689575,7.316707083
+8,2010,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,,,25.3232657617
+9,2010,IND,India,South Asia,Lower middle income,IBRD,,,35.0090893635
+10,2010,ITA,Italy,Europe & Central Asia,High income,Not classified,,93.6998672485,3.625931787
+11,2010,JPN,Japan,East Asia & Pacific,High income,Not classified,,99.5211105347,13.3822042915
+12,2010,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified,,94.3045272827,7.1136201236
+13,2010,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,93.068939209,74.741897583,11.5781091735
+14,2010,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,99.6842727661,99.3834991455,4.230898733
+15,2010,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,,,9.8314460748
+16,2010,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,92.6605987549,85.1923065186,6.0721146772
+17,2010,USA,United States,North America,High income,Not classified,,98.6884307861,5.6933081739
+18,2010,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,92.8773193359,78.4626693726,48.8833234547
+19,2011,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.1083297729,,
+20,2011,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,91.411239624,75.4480895996,
+21,2011,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,
+22,2011,FRA,France,Europe & Central Asia,High income,Not classified,,98.4455795288,
+23,2011,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,99.8556365967,
+24,2011,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,92.8119125366,74.437713623,
+25,2011,IND,India,South Asia,Lower middle income,IBRD,69.3025588989,51.4244613647,
+26,2011,ITA,Italy,Europe & Central Asia,High income,Not classified,98.8482818604,93.9799804688,
+27,2011,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,93.5199813843,,
+28,2011,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,94.106086731,86.4667892456,
+29,2011,USA,United States,North America,High income,Not classified,,98.717300415,
+30,2011,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,93.102142334,79.088470459,
+31,2012,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.1052322388,,
+32,2012,AUS,Australia,East Asia & Pacific,High income,Not classified,,99.9028167725,
+33,2012,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,91.337852478,77.7455062866,
+34,2012,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,
+35,2012,FRA,France,Europe & Central Asia,High income,Not classified,,98.450920105,
+36,2012,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,99.8083190918,
+37,2012,ITA,Italy,Europe & Central Asia,High income,Not classified,,94.3895492554,
+38,2012,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,94.2284011841,77.1823425293,
+39,2012,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,94.9197463989,86.9569625854,
+40,2012,USA,United States,North America,High income,Not classified,,98.7904815674,
+41,2012,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,93.7294692993,81.0981216431,
+42,2013,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.1219482422,,
+43,2013,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,91.4842376709,76.1180801392,
+44,2013,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,
+45,2013,FRA,France,Europe & Central Asia,High income,Not classified,,97.8960494995,
+46,2013,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,99.8322906494,
+47,2013,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,93.962852478,78.1062393188,
+48,2013,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,94.4263381958,81.3246688843,
+49,2013,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,95.2566604614,87.2976989746,
+50,2013,USA,United States,North America,High income,Not classified,,98.8670196533,
+51,2014,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,98.993888855,,
+52,2014,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,91.7294311523,76.9018630981,
+53,2014,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,
+54,2014,FRA,France,Europe & Central Asia,High income,Not classified,,97.5446166992,
+55,2014,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,99.8598480225,
+56,2014,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,95.1162185669,76.6004180908,
+57,2014,ITA,Italy,Europe & Central Asia,High income,Not classified,,95.0038299561,
+58,2014,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,94.5558776855,78.7838134766,
+59,2014,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,95.4396286011,87.8281021118,
+60,2014,USA,United States,North America,High income,Not classified,,98.7934112549,
+61,2014,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,94.1399002075,81.7826538086,
+62,2015,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.1799621582,,15.4917818001
+63,2015,AUS,Australia,East Asia & Pacific,High income,Not classified,,,4.5695574278999995
+64,2015,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,92.0478973389,77.5648269653,14.1762044944
+65,2015,CAN,Canada,North America,High income,Not classified,,,5.5854022742
+66,2015,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,,4.1327971245
+67,2015,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,5.0068230568
+68,2015,FRA,France,Europe & Central Asia,High income,Not classified,,97.5224227905,6.5750258376
+69,2015,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,,8.0669410656
+70,2015,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,95.2179336548,77.6303482056,21.8838899264
+71,2015,IND,India,South Asia,Lower middle income,IBRD,,,28.2602532026
+72,2015,ITA,Italy,Europe & Central Asia,High income,Not classified,,95.2694625854,5.1221792774
+73,2015,JPN,Japan,East Asia & Pacific,High income,Not classified,,,13.1540299447
+74,2015,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified,,95.5062866211,9.7247509815
+75,2015,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,94.4722824097,79.2293930054,10.0366534189
+76,2015,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,,4.1129312305
+77,2015,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,,,7.9538795665
+78,2015,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,95.6014175415,88.277130127,5.5452219072
+79,2015,USA,United States,North America,High income,Not classified,,98.7738800049,5.6512033275
+80,2015,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,94.3679199219,82.3844909668,37.2667407295
+81,2016,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.1250076294,,
+82,2016,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,92.8084411621,78.4814605713,
+83,2016,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,
+84,2016,FRA,France,Europe & Central Asia,High income,Not classified,,97.6264724731,
+85,2016,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,95.3769683838,80.2382736206,
+86,2016,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,94.8596191406,80.112159729,
+87,2016,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,96.1673278809,88.9477005005,
+88,2016,USA,United States,North America,High income,Not classified,,98.8771133423,
+89,2017,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,93.0758209229,79.6330413818,
+90,2017,FRA,France,Europe & Central Asia,High income,Not classified,,97.5684661865,
+91,2017,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,100.0,
+92,2017,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,94.9727783203,81.4155807495,
+93,2017,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,95.32862854,81.0916519165,
+94,2017,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,96.1505279541,89.501449585,
+95,2017,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,87.0466690063,85.8536682129,
+96,2018,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.003868103,,
+97,2018,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,93.2275009155,80.2751235962,
+98,2018,CHN,China,East Asia & Pacific,Upper middle income,IBRD,96.8408889771,,
+99,2018,DEU,Germany,Europe & Central Asia,High income,Not classified,,100.0,
+100,2018,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,95.6585617065,78.4278793335,
+101,2018,IND,India,South Asia,Lower middle income,IBRD,74.3729934692,,
+102,2018,ITA,Italy,Europe & Central Asia,High income,Not classified,99.1557617188,,
+103,2018,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,95.3799133301,82.7533721924,
+104,2018,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,99.7300567627,,
+105,2018,USA,United States,North America,High income,Not classified,,99.0315322876,
+106,2019,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,,,17.5964944783
+107,2019,AUS,Australia,East Asia & Pacific,High income,Not classified,,,4.9410543219
+108,2019,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,,,13.7086408762
+109,2019,CAN,Canada,North America,High income,Not classified,,,4.7722522673
+110,2019,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,,3.5497105578
+111,2019,DEU,Germany,Europe & Central Asia,High income,Not classified,,,4.7599854164
+112,2019,FRA,France,Europe & Central Asia,High income,Not classified,,97.6722869873,6.3680280364
+113,2019,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,,8.156775141
+114,2019,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,,,18.925659552
+115,2019,IND,India,South Asia,Lower middle income,IBRD,,,24.1661843666
+116,2019,ITA,Italy,Europe & Central Asia,High income,Not classified,99.3490982056,,5.5047880465
+117,2019,JPN,Japan,East Asia & Pacific,High income,Not classified,,,10.2966193961
+118,2019,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified,,,12.8287871493
+119,2019,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,,,9.0934368361
+120,2019,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,,3.9034529707
+121,2019,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,,,7.1305565303
+122,2019,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,96.7422103882,91.03515625,5.1653184719
+123,2019,USA,United States,North America,High income,Not classified,,,5.3020598009
+124,2019,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,95.0229721069,86.2785263062,35.6803578328
+125,2020,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,100.0,
+126,2020,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD,95.9990081787,81.9337005615,
+127,2020,ITA,Italy,Europe & Central Asia,High income,Not classified,,96.7274398804,
+128,2020,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,95.2478485107,83.4685516357,
+129,2020,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,97.585067749,88.5806732178,
+130,2020,USA,United States,North America,High income,Not classified,,99.0557785034,
